@@ -98,3 +98,20 @@ RISO_FILL_OPACITY = 0.55     # 粉/蓝区域填充透明度
 RISO_HL_FILL_OPACITY = 1.0   # 交集叠印紫实色
 
 PALETTES.update({"xuan": XUAN, "blueprint": BLUEPRINT, "riso": RISO})
+
+# 7. 课堂 Classroom（浅色）：灰白讲义纸 + 青绿主色 + 琥珀强调，适合大学课程和长讲解
+CLASSROOM = {
+    "BG":    "#F6F5F1",  # 背景：灰白讲义纸
+    "FG":    "#1D232B",  # 主文字：墨黑
+    "C_A":   "#0F6E73",  # 第一个对象：深青
+    "C_B":   "#3E8E8A",  # 第二个对象：浅青绿
+    "C_C":   "#C27A1A",  # 第三个对象：琥珀
+    "C_HL":  "#C27A1A",  # 结论/强调：琥珀（描边/文字）
+    "C_HL_INK": "#C27A1A",  # 浅底上结论文字同色
+    "C_HL_MARK": "#F6CD80",  # 结论背后的淡琥珀马克笔底色
+    "C_NO":  "#B03A2E",  # 错误/排除：砖红
+    "C_DIM": "#7D847F",  # 次要元素/网格：灰绿
+    "C_CARD": "#E7EBE8",  # 卡片底色
+}
+
+PALETTES.update({"classroom": CLASSROOM})

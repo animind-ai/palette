@@ -1,6 +1,6 @@
 # palette
 
-数学讲解视频的六套配色，为 Manim 设计。每套的颜色角色一致（背景、文字、对象 A/B/C、结论、错误、次要），可以直接互换。
+数学讲解视频的七套配色，为 Manim 设计。每套的颜色角色一致（背景、文字、对象 A/B/C、结论、错误、次要），可以直接互换。
 
 ![第 1–3 套](previews/set1.png)
 ![第 4–6 套](previews/set2.png)
@@ -99,6 +99,24 @@
 | 荧光笔底色 | `C_HL_MARK` | ![](https://placehold.co/14x14/FFE800/FFE800.png) `#FFE800` |
 | 错误 / 排除 | `C_NO` | ![](https://placehold.co/14x14/E4572E/E4572E.png) `#E4572E` |
 | 次要 / 网格 | `C_DIM` | ![](https://placehold.co/14x14/A7A3B5/A7A3B5.png) `#A7A3B5` |
+
+## 课堂 Classroom
+
+浅色讲义纸，青绿主色、琥珀强调，适合大学课程和较长的讲解（Classroom: light handout paper, teal and amber; for university-style lectures).
+
+| 角色 | 变量 | 色值 |
+|---|---|---|
+| 背景 | `BG` | ![](https://placehold.co/14x14/F6F5F1/F6F5F1.png) `#F6F5F1` |
+| 主文字 | `FG` | ![](https://placehold.co/14x14/1D232B/1D232B.png) `#1D232B` |
+| 对象 A | `C_A` | ![](https://placehold.co/14x14/0F6E73/0F6E73.png) `#0F6E73` |
+| 对象 B | `C_B` | ![](https://placehold.co/14x14/3E8E8A/3E8E8A.png) `#3E8E8A` |
+| 对象 C | `C_C` | ![](https://placehold.co/14x14/C27A1A/C27A1A.png) `#C27A1A` |
+| 结论 / 强调 | `C_HL` | ![](https://placehold.co/14x14/C27A1A/C27A1A.png) `#C27A1A` |
+| 强调描边（浅底用） | `C_HL_INK` | ![](https://placehold.co/14x14/C27A1A/C27A1A.png) `#C27A1A` |
+| 强调底色（马克笔） | `C_HL_MARK` | ![](https://placehold.co/14x14/F6CD80/F6CD80.png) `#F6CD80` |
+| 错误 / 排除 | `C_NO` | ![](https://placehold.co/14x14/B03A2E/B03A2E.png) `#B03A2E` |
+| 次要 / 网格 | `C_DIM` | ![](https://placehold.co/14x14/7D847F/7D847F.png) `#7D847F` |
+| 卡片底色 | `C_CARD` | ![](https://placehold.co/14x14/E7EBE8/E7EBE8.png) `#E7EBE8` |
 
 ## 用法（Manim）
 
