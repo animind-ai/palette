@@ -8,6 +8,12 @@
 
 ## 品牌主题
 
+这两套是培玉课程实际在用的主题，作为真实案例收录。These two are the real themes used by Peiyu courses, included as a real-world example.
+
+> 色值随本仓库的 MIT 许可发布，可以自由使用；「培玉」/ Peiyu 名称和 logo 是培玉智能的商标，不在许可范围内。
+>
+> The colour values are covered by this repo's MIT license and are free to use; the name 「培玉」/ Peiyu and its logo are trademarks of 培玉智能 and are not licensed.
+
 ### 培玉 Peiyu（默认）
 
 培玉的品牌色卡，浅色。松绿和赤金取自 logo，再配石青、赭石，是青绿山水的一套颜色。logo 原色在米白底上太淡，文字都用压深后的同色相版本。

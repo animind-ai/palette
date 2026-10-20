@@ -101,6 +101,9 @@ RISO_HL_FILL_OPACITY = 1.0   # 交集叠印紫实色
 PALETTES.update({"xuan": XUAN, "blueprint": BLUEPRINT, "riso": RISO})
 
 # 7. 培玉 Peiyu（浅色，品牌色卡）：标色取自 logo，松绿 #90B898、赤金 #B89058
+# 色值随本仓库的 MIT 许可发布，可以自由使用；「培玉」/ Peiyu 名称和 logo 是培玉智能的商标，不在许可范围内。
+# The colour values are MIT-licensed with this repo and free to use; the name 「培玉」/ Peiyu and its logo are
+# trademarks of 培玉智能 and are not licensed.
 # 标色原值在米白底上太淡（对比度 2.0 / 2.7），小字一律用压深后的同色相版本。
 PEIYU = {
     "BG":    "#F7F4EE",  # 背景：米白
