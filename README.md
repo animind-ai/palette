@@ -102,7 +102,9 @@
 
 ## 课堂 Classroom
 
-浅色讲义纸，青绿主色、琥珀强调，适合大学课程和较长的讲解（Classroom: light handout paper, teal and amber; for university-style lectures).
+![课堂 Classroom](previews/classroom.png)
+
+浅色讲义纸，青绿主色、琥珀强调，第三个对象用葡萄紫，适合大学课程和较长的讲解。
 
 | 角色 | 变量 | 色值 |
 |---|---|---|
@@ -110,7 +112,7 @@
 | 主文字 | `FG` | ![](https://placehold.co/14x14/1D232B/1D232B.png) `#1D232B` |
 | 对象 A | `C_A` | ![](https://placehold.co/14x14/0F6E73/0F6E73.png) `#0F6E73` |
 | 对象 B | `C_B` | ![](https://placehold.co/14x14/3E8E8A/3E8E8A.png) `#3E8E8A` |
-| 对象 C | `C_C` | ![](https://placehold.co/14x14/C27A1A/C27A1A.png) `#C27A1A` |
+| 对象 C | `C_C` | ![](https://placehold.co/14x14/6A4C93/6A4C93.png) `#6A4C93` |
 | 结论 / 强调 | `C_HL` | ![](https://placehold.co/14x14/C27A1A/C27A1A.png) `#C27A1A` |
 | 强调描边（浅底用） | `C_HL_INK` | ![](https://placehold.co/14x14/C27A1A/C27A1A.png) `#C27A1A` |
 | 强调底色（马克笔） | `C_HL_MARK` | ![](https://placehold.co/14x14/F6CD80/F6CD80.png) `#F6CD80` |
